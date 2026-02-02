@@ -1,10 +1,57 @@
-## Descripción del repositorio
+## 📂 Descripción del repositorio
 
-La raíz del repositorio comienza con una sección dedicada a las Presentaciones, donde se encuentran los archivos que se utilizaron en las exposiciones de las prácticas, tanto en formato PowerPoint como PDF. 
+La raíz del repositorio comienza con una sección dedicada a las **Presentaciones 📢**, donde se encuentran los archivos utilizados en las exposiciones (formatos **PowerPoint** y **PDF**).
 
-El fichero de la Práctica 1, se centra en la conceptualización y validación de la idea de negocio. Dentro de sus carpetas se almacena el documento descriptivo del proyecto, un análisis detallado del estudio de mercado para evaluar la competencia y un mapa mental que esquematiza las ideas iniciales sobre las diferentes opciones de aplicaciones que nos planteamos. Posteriormente, la Práctica 2 profundiza en la definición del producto, enfocándose en la experiencia de usuario a través de un documento de visión y la creación de personajes y escenarios.
+---
 
-La parte más técnica y visual del repositorio se encuentra en la Práctica 3, la cual está dividida en dos grandes bloques denominados "Entrega 1" y "Entrega 2". En estas carpetas se desglosa el diseño de interacción mediante diagramas de navegación, wireflows, modelos de tareas y arquitectura de información. También se incluyen los prototipos creados a través de Figma, de baja y alta fidelidad, y bocetos en papel para las primeras iteraciones. Finalmente, la estructura se cierra con un Plan de entregas, que organiza temporalmente los hitos del desarrollo.
+## 💡 Práctica 1: Conceptualización y Validación
 
-La estructura de la Práctica 4 se enfoca en la validación del sistema mediante pruebas con usuarios reales. Esta sección contiene una carpeta de capturas web que muestran una página web sobre el lanzamiento de la aplicación, que ha sido realizado usando Next.js 14. También incluye apartados para el recorrido cognitivo tanto desde la perspectiva del observador como del usuario con el fin de analizar la usabilidad. Finalmente existe un espacio dedicado a las valoraciones de los usuarios donde se recogen todas las opiniones y resultados obtenidos en las pruebas.
+Se centra en la idea de negocio. Esta carpeta contiene:
+
+- Documento descriptivo del proyecto.
+- Estudio de mercado detallado para evaluar la competencia.
+- Mapa mental con las ideas iniciales de las diferentes opciones de aplicaciones.
+
+---
+
+## 👤 Práctica 2: Definición del Producto
+
+Profundiza en la experiencia de usuario (**UX**). Incluye:
+
+- Documento de visión.
+- Personas y escenarios para definir a los usuarios.
+
+---
+
+## 🎨 Práctica 3: Diseño de Interacción
+
+La parte más técnica y visual, dividida en dos bloques (**Entrega 1** y **Entrega 2**). Contiene:
+
+- **Diseño**:
+  - Diagramas de navegación.
+  - Wireflows.
+  - Modelos de tareas.
+  - Arquitectura de información.
+- **Prototipado**:
+  - Bocetos en papel.
+  - Prototipos de baja y alta fidelidad (creados en **Figma**).
+- **Plan de entregas**:
+  - Organización temporal de los hitos del desarrollo.
+
+---
+
+## 🚀 Práctica 4: Validación y Lanzamiento
+
+Enfoque en la validación del sistema con usuarios reales.
+
+- **Landing Page (iCancha)**:
+  - Desarrollada con **Next.js 14**, **Tailwind CSS** y **Framer Motion**.
+  - Diseño *mobile-first* con estética **"High-Energy"** orientada a la captación de betas.
+  - Incluye carpeta con capturas del flujo.
+- **Recorrido Cognitivo**:
+  - Análisis de usabilidad desde la perspectiva del observador y del usuario.
+- **Valoraciones**:
+  - Recopilación de opiniones y resultados obtenidos en las pruebas.
+
+
 
